@@ -48,6 +48,7 @@ End-to-end supply chain analytics project using **Python, SQL, Machine Learning,
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Machine Learning](https://img.shields.io/badge/ML-XGBoost-orange?style=flat-square)](https://xgboost.readthedocs.io/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://www.microsoft.com/power-platform/products/power-bi)
 
 - Supply chain performance analysis
@@ -58,7 +59,7 @@ End-to-end supply chain analytics project using **Python, SQL, Machine Learning,
 - Revenue forecasting
 - Interactive Power BI dashboard
 
-🔗 [View Project on GitHub](https://github.com/sumita-das11/SupplyChain-Analytics-Project)
+🔗 [View Project on GitHub](https://github.com/sumita-das11/supply-chain-efficiency-delivery-analysis)
 
 ---
 
@@ -80,11 +81,11 @@ AI-powered telecom customer churn analysis using **Python, SQL, Machine Learning
 - At-risk customer identification
 - Interactive Power BI dashboard
 
-🔗 [View Project on GitHub](https://github.com/sumita-das11/customer-churn-analysis)
+🔗 [View Project on GitHub](https://github.com/sumita-das11/Customer-Churn-Analysis-SQL-Python-Power-BI)
 
 ---
 
-## 💰 Olist Dynamic Pricing & Revenue Intelligence
+## 💰 Ecommerce Pricing & Recommendation Analysis
 
 Machine learning-based pricing analytics project using **Python, SQL, Machine Learning, and Power BI** to analyze pricing, demand, product performance, and cross-selling opportunities.
 
@@ -107,7 +108,7 @@ Machine learning-based pricing analytics project using **Python, SQL, Machine Le
 
 ---
 
-## 🛒 Retail Store Performance Analytics
+## 🛒 Retail Performance Analytics
 
 Retail analytics project focused on **sales performance, profitability, regional trends, product performance, and customer behavior**.
 
@@ -144,7 +145,7 @@ Excel-based HR analytics project analyzing **workforce structure, employee attri
 - XLOOKUP-based employee profiling
 - HR risk indicators
 
-🔗 [View Project on GitHub](https://github.com/sumita-das11/hr-workforce-attrition-analysis)
+🔗 [View Project on GitHub](https://github.com/sumita-das11/hr-workforce-analytics-excel)
 
 ---
 
@@ -160,20 +161,11 @@ Excel-based HR analytics project analyzing **workforce structure, employee attri
 - ⚡ Power BI & Dashboard Development
 
 ---
+## 📚 Currently Learning
 
-# 🎓 Education
-
-**B.Tech in Computer Science & Engineering (AI & ML)**  
-Brainware University, Kolkata  
-**CGPA: 9.0 / 10 | 2025**
-
----
-
-# 📜 Certifications & Training
-
-- IBM Data Analysis with Python
-- Tata Group – GenAI Powered Data Analytics Job Simulation
-- MERN Stack Developer Training
+- Advanced SQL Queries
+- Data Modeling & DAX in Power BI
+- Python for Analytics Automation
 
 ---
 
@@ -184,9 +176,6 @@ https://github.com/sumita-das11
 
 🔗 **LinkedIn:**  
 https://linkedin.com/in/sumitadas
-
-🌐 **Portfolio:**  
-Coming Soon
 
 ---
 
